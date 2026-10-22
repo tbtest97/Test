@@ -7,3 +7,9 @@ sh hello.sh
 ```
 
 It prints `Hello from Test!` without changing any files.
+
+Expected output:
+
+```text
+Hello from Test!
+```
